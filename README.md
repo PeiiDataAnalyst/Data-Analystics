@@ -1,3 +1,2 @@
-# DataAnalyst
-Config files for my GitHub profile.
+# Data Analystics
 data manipulation, data visualization, importing and cleaning data
