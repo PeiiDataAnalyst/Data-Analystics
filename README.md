@@ -1,2 +1,2 @@
 # Data Analystics
-data manipulation, data visualization, importing and cleaning data
+Data manipulation, Data visualization, Importing and Cleaning data
